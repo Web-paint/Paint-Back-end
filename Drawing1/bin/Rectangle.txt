@@ -1,0 +1,2 @@
+{"startPointY":86.125,"startPointX":136.39999389648438,"name":"Rectangle","width":88,"height":52}
+{"startPointY":90.125,"startPointX":320.3999938964844,"name":"Rectangle","width":84,"height":57}

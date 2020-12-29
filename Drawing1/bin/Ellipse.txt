@@ -1,0 +1,1 @@
+{"centerY":206.125,"centerX":277.3999938964844,"name":"Ellipse","radiusY":31,"radiusX":93}

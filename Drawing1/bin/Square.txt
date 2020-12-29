@@ -1,0 +1,2 @@
+{"startPointY":94.125,"startPointX":246.39999389648438,"name":"Square","width":91,"height":91}
+{"startPointY":183.125,"startPointX":336.3999938964844,"name":"Square","width":90,"height":90}

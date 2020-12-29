@@ -1,0 +1,2 @@
+{"point1Y":283.5249996185303,"name":"Triangle","point1X":108,"point2Y":338.5249996185303,"point2X":186,"point3Y":352.5249996185303,"point3X":76}
+{"point1Y":291.52499771118164,"name":"Triangle","point1X":304,"point2Y":331.52499771118164,"point2X":263,"point3Y":336.52499771118164,"point3X":328}

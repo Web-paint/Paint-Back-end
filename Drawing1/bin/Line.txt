@@ -1,0 +1,3 @@
+{"startPointY":19.524993896484375,"startPointX":15,"endPointX":41,"endPointY":69.52499389648438,"name":"Line"}
+{"startPointY":27.524993896484375,"startPointX":198,"endPointX":261,"endPointY":26.524993896484375,"name":"Line"}
+{"startPointY":86.52499389648438,"startPointX":207,"endPointX":205,"endPointY":130.52499389648438,"name":"Line"}

@@ -1,0 +1,2 @@
+{"centerY":119.52499389648438,"centerX":16,"name":"Circle","radius":53.81449618829484}
+{"centerY":157.52499389648438,"centerX":185,"name":"Circle","radius":72.02777242147643}
